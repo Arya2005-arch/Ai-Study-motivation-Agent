@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-11-19T22:33:19.113019",
+    "subject": "The software engineering subject is getting hard to study",
+    "difficulty": "Hard",
+    "reason": "",
+    "mood": "Focused",
+    "time_available": 60,
+    "analysis": "The topic is challenging \u2014 it likely needs smaller steps and more practice.",
+    "today_tasks": [
+      "Warm-up (10 min): recap notes for The software engineering subject is getting hard to study.",
+      "Focused session (30\u201340 min): deep work on one sub-topic with practice.",
+      "Consolidation (10\u201315 min): write 5 recall questions and answers."
+    ]
+  },
+  {
+    "timestamp": "2025-11-19T22:33:47.094857",
+    "subject": "The software engineering subject is getting hard to study",
+    "difficulty": "Hard",
+    "reason": "there are some concepts in chapter 3",
+    "mood": "Focused",
+    "time_available": 60,
+    "analysis": "The topic is challenging \u2014 it likely needs smaller steps and more practice. Try visual examples and small analogies to ground abstract concepts.",
+    "today_tasks": [
+      "Warm-up (10 min): recap notes for The software engineering subject is getting hard to study.",
+      "Focused session (30\u201340 min): deep work on one sub-topic with practice.",
+      "Consolidation (10\u201315 min): write 5 recall questions and answers."
+    ]
+  },
+  {
+    "timestamp": "2025-11-19T22:33:55.450217",
+    "subject": "The software engineering subject is getting hard to study",
+    "difficulty": "Hard",
+    "reason": "there are some concepts in chapter 3",
+    "mood": "Tired",
+    "time_available": 60,
+    "analysis": "The topic is challenging \u2014 it likely needs smaller steps and more practice. Current energy/mood suggests short sessions and self-care first (rest, hydration). Try visual examples and small analogies to ground abstract concepts.",
+    "today_tasks": [
+      "Warm-up (10 min): recap notes for The software engineering subject is getting hard to study.",
+      "Focused session (30\u201340 min): deep work on one sub-topic with practice.",
+      "Consolidation (10\u201315 min): write 5 recall questions and answers."
+    ]
+  }
+]
